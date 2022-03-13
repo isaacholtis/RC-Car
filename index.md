@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+RC Car perfection?
 
-You can use the [editor on GitHub](https://github.com/isaacholtis/RC-Car/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the ArduinoZig website, where we strive for perfection, in every thing we do, and make.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What kind of project is this?
+We are trying to make an RC car out of an Arduino Nano, with a budget of less than $100 dollars over the whole project, and less than an hour a week of work from our team of three. As such, development is slow, but ongoing for our Remote Controlled car. We plan on having working prototypes by mid-March, with a somewhat complete package by sometime in May. The best way to check the development progress is to check our GitHub, which can be found here: 
 
-### Markdown
+https://github.com/isaacholtis/RC-Car
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isaacholtis/RC-Car/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We'll also be posting when big strides in development occur in our blog section, which can be found within the top bar of this website. We can't make any commitments right now, but if you want to support what we're doing, you can use the button above to donate to our PayPal, which may or may not be used for RnD. 😉
