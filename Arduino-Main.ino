@@ -25,7 +25,6 @@ void setup()
 } 
 void loop() 
 { 
-
  if (Serial.available() > 0)
  {
   bt = Serial.read();
@@ -121,7 +120,7 @@ void loop()
     digitalWrite(ena2, 0);
     steering.write(80);
  }
- 
+
   } 
 }
 /*---------------- E N  D ------------------------------------------------------*/
